@@ -31,7 +31,7 @@ To run the project, compile and execute the C++ code. Ensure that the **Eigen li
 - **data/**: Contains the CSV files with numerical and analytical solutions.
 - **plot_results.py**: A Python script to plot results from the CSV files using `matplotlib`.
 
-- ## Project Report
+## Project Report
 
 A detailed report titled **"Solving the Black-Scholes Equation Numerically"** is attached to this GitHub repository. The report includes an in-depth analysis of the methods used, the numerical results obtained, and comparisons with analytical solutions. It provides insights into the mathematical foundations of the Black-Scholes Equation and the Time-Dependent Schrödinger Equation, along with graphical representations of the results.
 

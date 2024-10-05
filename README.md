@@ -35,7 +35,8 @@ To run the project, compile and execute the C++ code. Ensure that the **Eigen li
 
 A detailed report titled **"Solving the Black-Scholes Equation Numerically"** is attached to this GitHub repository. The report includes an in-depth analysis of the methods used, the numerical results obtained, and comparisons with analytical solutions. It provides insights into the mathematical foundations of the Black-Scholes Equation and the Time-Dependent Schrödinger Equation, along with graphical representations of the results.
 
-You can find the report in the root directory of this repository as **Solving_the_Black-Scholes_Equation_Numerically.pdf**.
+The report can be found in the **report** folder of this repository under the name **Solving_the_Black-Scholes_Equation_Numerically.pdf**.
+
 
 
 
